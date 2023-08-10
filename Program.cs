@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using ProyectoNico.Data;
-using ProyectoNico.Areas.Identity.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
